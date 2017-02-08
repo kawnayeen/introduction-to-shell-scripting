@@ -1,0 +1,16 @@
+== Introduction
+
+This project does something.
+We just haven't decided what that is yet.
+
+NOTE: Some additional info...
+
+TIP: Pro tip...
+
+IMPORTANT: Don't forget...
+
+WARNING: Watch out for...
+
+CAUTION: Ensure that...
+
+
