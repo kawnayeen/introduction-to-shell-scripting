@@ -1,0 +1,22 @@
+= Introduction to Shell Scripting
+
+Hey nerd, it's great that you want to get your hand dirty
+with shell scripting.
+
+== Basic
+This section deal with very basic shell operation
+
+=== WhoAmI
+The following command will give the current user
+[source,shell]
+----
+include::../../scripts/1_who_am_i.sh[]
+----
+
+=== Present Working Directory
+The following command will give the present working directory
+[source,shell]
+----
+include::../../scripts/2_pwd.sh[]
+----
+
