@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/IntroToShellScripting.iml" filepath="$PROJECT_DIR$/.idea/modules/IntroToShellScripting.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/IntroToShellScripting_main.iml" filepath="$PROJECT_DIR$/.idea/modules/IntroToShellScripting_main.iml" group="IntroToShellScripting" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/IntroToShellScripting_test.iml" filepath="$PROJECT_DIR$/.idea/modules/IntroToShellScripting_test.iml" group="IntroToShellScripting" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/introduction-to-shell-scripting.iml" filepath="$PROJECT_DIR$/.idea/modules/introduction-to-shell-scripting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/introduction-to-shell-scripting_main.iml" filepath="$PROJECT_DIR$/.idea/modules/introduction-to-shell-scripting_main.iml" group="introduction-to-shell-scripting" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/introduction-to-shell-scripting_test.iml" filepath="$PROJECT_DIR$/.idea/modules/introduction-to-shell-scripting_test.iml" group="introduction-to-shell-scripting" />
     </modules>
   </component>
 </project>
